@@ -1,6 +1,6 @@
 <div align="center">
 
-# 안녕하세요, 서민형입니다 👋
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,24&height=260&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94,%20%EC%84%9C%EB%AF%BC%ED%98%95%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=44&fontColor=FFFFFF&fontAlignY=40&desc=Materials%20Engineering%20%C3%97%20AI&descSize=22&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
 ### 🧪 재료공학 × 🤖 AI — 소재의 미래를 데이터로 설계하고 싶은 AI 교육생
 
@@ -114,5 +114,7 @@
 <div align="center">
 
 **"재료를 아는 AI 엔지니어"를 향해 매일 한 칸씩 잔디를 심고 있습니다 🌿**
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=gradient&customColorList=12,20,24&height=160&section=footer" width="100%" alt="footer"/>
 
 </div>
